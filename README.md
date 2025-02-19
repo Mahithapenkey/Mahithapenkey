@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mahithapenkey
 - 🌱 I’m currently learning Web development
-- 📫 How to reach me mahithapenkey@gmail.com
-- ![Header](file:///C:/Users/hi/Downloads/github-header-image.png)
+- 📫 To reach me mahithapenkey@gmail.com
+
 
 
 <!---
