@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Mahithapenkey
-- 🌱 I’m currently learning Web development
 - 📫 To reach me mahithapenkey@gmail.com
 
 
